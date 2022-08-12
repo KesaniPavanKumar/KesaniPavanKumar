@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pavankumar-portfolio.web.app/](https://pavankumar-portfolio.web.app/)
 
-- 💬 Ask me about **Angular ,JS ,HTML ,CSS ,BOOTSTRAP, Flask.**
+- 💬 Ask me about **Angular , JS , HTML , CSS , BOOTSTRAP , Flask.**
 
 - 📫 How to reach me **pavankumar.online1@gmail.com**
 
